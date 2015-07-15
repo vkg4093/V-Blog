@@ -1,0 +1,103 @@
+﻿@{
+    ViewBag.Title = "AutoCompleteDemo";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script src="~/Scripts/jquery-2.1.3.min.js"></script>
+<script src="~/Scripts/jquery-ui-1.11.4.min.js"></script>
+<script src="~/Scripts/jquery.autocomplete.js"></script>
+<script type="text/javascript">
+
+    $(document).ready(function () {
+       
+        $("#autocompleteTextBox").autocomplete({
+            source: function (request, response) {
+                $.ajax({
+                    url: "/home/getCountryName",
+                    type: "POST",
+                    dataType: "json",
+                    data: { term: request.term },
+                    success: function (data) {
+                        alert(data);
+                        // response($.map(data, function (item) {
+
+                        //    return { label: item.countrtlist };
+
+                        //}))
+                    }
+                })
+            },
+            messages: {
+                noResults: "", results: ""
+            }
+        });
+    });
+</script>
+<style type="text/css">
+    .autocomplete-suggestions {
+        border: 1px solid #999;
+        background: #FFF;
+        cursor: default;
+        overflow: auto;
+        -webkit-box-shadow: 1px 4px 3px rgba(50, 50, 50, 0.64);
+        -moz-box-shadow: 1px 4px 3px rgba(50, 50, 50, 0.64);
+        box-shadow: 1px 4px 3px rgba(50, 50, 50, 0.64);
+    }
+
+    .autocomplete-suggestion {
+        padding: 2px 5px;
+        white-space: nowrap;
+        overflow: hidden;
+    }
+
+    .autocomplete-no-suggestion {
+        padding: 2px 5px;
+    }
+
+    .autocomplete-selected {
+        background: #F0F0F0;
+    }
+
+    .autocomplete-suggestions strong {
+        font-weight: bold;
+        color: #000;
+    }
+
+    .autocomplete-group {
+        padding: 2px 5px;
+    }
+
+        .autocomplete-group strong {
+            font-weight: bold;
+            font-size: 16px;
+            color: #000;
+            display: block;
+            border-bottom: 1px solid #000;
+        }
+
+    input {
+        font-size: 28px;
+        padding: 10px;
+        border: 1px solid #CCC;
+        display: block;
+        margin: 20px 0;
+    }
+</style>
+<div class="row">
+    @Html.Partial("~/Views/Home/_LeftPageMenu.cshtml")
+    <div class="col-md-10">
+        <div class="content-box-large">
+            <h2>AutoCompleteDemo</h2>
+            <p>Type country name in english:</p>
+            <div style="position: relative; height: 80px;">
+                <input type="text" name="country" id="autocompleteTextBox" style="position: absolute; z-index: 2; background: transparent;" />
+            </div>
+            <div id="selction-ajax"></div>
+        </div>
+    </div>
+</div>
+@*<script type="text/javascript">
+    $(function () {*@
+
+
+//});
+@*//</script>*@

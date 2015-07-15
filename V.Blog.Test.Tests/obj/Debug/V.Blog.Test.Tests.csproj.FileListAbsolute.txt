@@ -1,0 +1,272 @@
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\obj\Debug\V.Blog.Test.Tests.csprojResolveAssemblyReference.cache
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Test.Tests.dll.config
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Test.Tests.dll
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Test.Tests.pdb
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Net.Http.dll
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Net.Http.Formatting.dll
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Net.Http.WebRequest.dll
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Helpers.dll
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Http.dll
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Http.WebHost.dll
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Mvc.dll
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Razor.dll
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.WebPages.dll
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Test.dll
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Ninject.Web.Common.dll
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Ninject.dll
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\EntityFramework.dll
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Service.dll
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Optimization.dll
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Core.dll
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Data.dll
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\WebGrease.dll
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Antlr3.Runtime.dll
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Test.pdb
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Net.Http.xml
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Net.Http.Formatting.xml
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Net.Http.WebRequest.xml
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Helpers.xml
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Http.xml
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Http.WebHost.xml
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Mvc.xml
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Razor.xml
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.WebPages.xml
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Ninject.Web.Common.xml
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Ninject.xml
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\EntityFramework.xml
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Service.pdb
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Core.pdb
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Data.pdb
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\obj\Debug\V.Blog.Test.Tests.dll
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\obj\Debug\V.Blog.Test.Tests.pdb
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\PagedList.dll
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Test.Tests.dll.config
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Test.Tests.dll
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Test.Tests.pdb
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Net.Http.dll
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Net.Http.Formatting.dll
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Net.Http.WebRequest.dll
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Helpers.dll
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Http.dll
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Http.WebHost.dll
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Mvc.dll
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Razor.dll
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.WebPages.dll
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Test.dll
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\EntityFramework.dll
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Ninject.dll
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Ninject.Web.Common.dll
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Service.dll
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Core.dll
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Optimization.dll
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Data.dll
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\PagedList.dll
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\WebGrease.dll
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Antlr3.Runtime.dll
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Test.pdb
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Net.Http.xml
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Net.Http.Formatting.xml
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Net.Http.WebRequest.xml
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Helpers.xml
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Http.xml
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Http.WebHost.xml
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Mvc.xml
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Razor.xml
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.WebPages.xml
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\EntityFramework.xml
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Ninject.xml
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Ninject.Web.Common.xml
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Service.pdb
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Core.pdb
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Data.pdb
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\obj\Debug\V.Blog.Test.Tests.csprojResolveAssemblyReference.cache
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\obj\Debug\V.Blog.Test.Tests.dll
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\obj\Debug\V.Blog.Test.Tests.pdb
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\AutoMapper.Net4.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Test.Tests.dll.config
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Test.Tests.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Test.Tests.pdb
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Net.Http.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Net.Http.WebRequest.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Helpers.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Http.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Mvc.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Razor.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.WebPages.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Test.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Ninject.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Ninject.Web.Common.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\EntityFramework.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Optimization.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Service.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Core.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Data.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\PagedList.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\WebGrease.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Antlr3.Runtime.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Test.pdb
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Net.Http.xml
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Net.Http.WebRequest.xml
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Helpers.xml
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Http.xml
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Mvc.xml
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Razor.xml
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.WebPages.xml
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Ninject.xml
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Ninject.Web.Common.xml
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\EntityFramework.xml
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Service.pdb
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Core.pdb
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Data.pdb
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\obj\Debug\V.Blog.Test.Tests.csprojResolveAssemblyReference.cache
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\obj\Debug\V.Blog.Test.Tests.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\obj\Debug\V.Blog.Test.Tests.pdb
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\jquery.datatable.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Http.OData.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Microsoft.Data.OData.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Microsoft.Data.Edm.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Spatial.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Http.OData.xml
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Microsoft.Data.OData.xml
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Microsoft.Data.Edm.xml
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Spatial.xml
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\de\System.Spatial.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\es\System.Spatial.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\fr\System.Spatial.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\it\System.Spatial.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\ja\System.Spatial.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\ko\System.Spatial.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\ru\System.Spatial.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Test.Tests.dll.config
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Test.Tests.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Test.Tests.pdb
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Net.Http.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Net.Http.WebRequest.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Helpers.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Http.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Mvc.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Razor.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.WebPages.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Test.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Http.OData.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Ninject.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Ninject.Web.Common.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\EntityFramework.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Optimization.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Service.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Core.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Data.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\PagedList.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Microsoft.Data.OData.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Microsoft.Data.Edm.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Spatial.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\WebGrease.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Antlr3.Runtime.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Test.pdb
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Net.Http.xml
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Net.Http.WebRequest.xml
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Helpers.xml
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Http.xml
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Mvc.xml
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Razor.xml
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.WebPages.xml
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Web.Http.OData.xml
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Ninject.xml
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Ninject.Web.Common.xml
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\EntityFramework.xml
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Service.pdb
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Core.pdb
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\V.Blog.Data.pdb
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Microsoft.Data.OData.xml
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\Microsoft.Data.Edm.xml
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\System.Spatial.xml
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\de\System.Spatial.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\es\System.Spatial.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\fr\System.Spatial.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\it\System.Spatial.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\ja\System.Spatial.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\ko\System.Spatial.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\ru\System.Spatial.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\obj\Debug\V.Blog.Test.Tests.csprojResolveAssemblyReference.cache
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\obj\Debug\V.Blog.Test.Tests.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\obj\Debug\V.Blog.Test.Tests.pdb
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\AutoMapper.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\AutoMapper.pdb
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\AutoMapper.xml
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Test.Tests\bin\Debug\bin\AutoMapper.Net4.dll

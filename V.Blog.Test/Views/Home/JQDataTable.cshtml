@@ -1,0 +1,44 @@
+﻿@model V.Blog.Core.ViewModel.CustomerViewModel
+@{
+    ViewBag.Title = "JQDataTable";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    @*@Html.Partial("~/Views/Home/_LeftPageMenu.cshtml")*@
+    <div class="col-md-10">
+        <div class="content-box-large">
+            @*<h2>Customers</h2>@Html.ActionLink("Add Customer", "Add", null, new { })*@
+            <div class="clearfix">
+                <label class="fLeft" id="recordsCount">
+                </label>
+                <label class="fRight" id="ShowingRecords">
+                </label>
+            </div>
+            <table id="tblCustomer" class="table table-condensed table-striped">
+                <thead>
+                    <tr>
+                        <th>
+                            CustomerID
+                        </th>
+                        <th>
+                            ContactName
+                        </th>
+                        <th>
+                            CompanyName
+                        </th>
+                        <th>
+                            Address
+                        </th>
+                        <th>
+                            City
+                        </th>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+    </div>
+</div>
+
+
+

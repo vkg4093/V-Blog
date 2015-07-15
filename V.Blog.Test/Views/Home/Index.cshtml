@@ -1,0 +1,59 @@
+﻿@using PagedList.Mvc;
+@model PagedList.IPagedList<V.Blog.Data.POCO.Customer>
+@{
+    ViewBag.Title = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/Content/PagedList.css" rel="stylesheet" />
+
+<div class="row">
+    @Html.Partial("~/Views/Home/_LeftPageMenu.cshtml")
+    <div class="col-md-10">
+        <div class="content-box-large">
+            <h2>Customers  </h2>
+            @Html.ActionLink("Add Customer", "Add", null, new { })
+
+            <table class="table table-condensed table-striped">
+                <tr>
+                    <th>CustomerID
+                    </th>
+                    <th>ContactName
+                    </th>
+                    <th>CompanyName
+                    </th>
+                    <th>Address
+                    </th>
+                    <th>City
+                    </th>
+                </tr>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.CustomerID
+                        </td>
+                        <td>@item.ContactName
+                        </td>
+                        <td>@item.CompanyName
+                        </td>
+                        <td>@item.Address
+                        </td>
+                        <td>@item.City
+                        </td>
+                        <td>
+                            @Html.ActionLink("Edit", "Edit", new { id = item.CustomerID }) |
+                            @Html.ActionLink("Details", "Details", new { id = item.CustomerID }) |
+                            @Html.ActionLink("Delete", "Delete", new { id = item.CustomerID })
+                        </td>
+                    </tr>
+                }
+            </table>
+            <br />
+            Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)
+            of @Model.PageCount
+            @Html.PagedListPager(Model, page => Url.Action("Index",
+    new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
+        </div>
+    </div>
+</div>
+
+

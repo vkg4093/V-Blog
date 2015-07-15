@@ -1,0 +1,40 @@
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Core\bin\Debug\V.Blog.Core.dll.config
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Core\bin\Debug\V.Blog.Core.dll
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Core\bin\Debug\V.Blog.Core.pdb
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Core\bin\Debug\EntityFramework.dll
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Core\bin\Debug\EntityFramework.SqlServer.dll
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Core\bin\Debug\EntityFramework.xml
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Core\bin\Debug\EntityFramework.SqlServer.xml
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Core\obj\Debug\V.Blog.Core.dll
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Core\obj\Debug\V.Blog.Core.pdb
+E:\vikram.goswami\Sample Projects\VS2010\V.Blog.Test\V.Blog.Core\obj\Debug\V.Blog.Core.csprojResolveAssemblyReference.cache
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Core\bin\Debug\V.Blog.Core.dll.config
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Core\bin\Debug\V.Blog.Core.dll
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Core\bin\Debug\V.Blog.Core.pdb
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Core\bin\Debug\EntityFramework.dll
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Core\bin\Debug\EntityFramework.SqlServer.dll
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Core\bin\Debug\EntityFramework.xml
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Core\bin\Debug\EntityFramework.SqlServer.xml
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Core\obj\Debug\V.Blog.Core.dll
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Core\obj\Debug\V.Blog.Core.pdb
+E:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Core\obj\Debug\V.Blog.Core.csprojResolveAssemblyReference.cache
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Core\bin\Debug\V.Blog.Core.dll.config
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Core\bin\Debug\V.Blog.Core.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Core\bin\Debug\V.Blog.Core.pdb
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Core\bin\Debug\EntityFramework.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Core\bin\Debug\EntityFramework.xml
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Core\obj\Debug\V.Blog.Core.csprojResolveAssemblyReference.cache
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Core\obj\Debug\V.Blog.Core.dll
+D:\vikram.goswami\MyGitRepo\VBlog\V.Blog.Test\V.Blog.Core\obj\Debug\V.Blog.Core.pdb
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Core\bin\Debug\V.Blog.Core.dll.config
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Core\bin\Debug\V.Blog.Core.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Core\bin\Debug\V.Blog.Core.pdb
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Core\bin\Debug\EntityFramework.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Core\bin\Debug\EntityFramework.xml
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Core\obj\Debug\V.Blog.Core.csprojResolveAssemblyReference.cache
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Core\obj\Debug\V.Blog.Core.dll
+D:\vikram.goswami\MyGitRepo\VBlog_Sample\V.Blog.Test\V.Blog.Core\obj\Debug\V.Blog.Core.pdb

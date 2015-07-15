@@ -1,0 +1,121 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Application</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="../../css/bootstrap.min.css" rel="stylesheet" />
+    <link href="../../css/styles.css" rel="stylesheet" type="text/css" />
+    <link href="~/Assests/css/jquery-ui.css" rel="stylesheet" />
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>    
+
+    <![endif]-->
+    <style type="text/css">
+        .ui-autocomplete {
+            z-index: 100;
+        }
+
+        .ui-autocomplete-loading {
+            background: white url("images/ajax-loader-trans.gif") right center no-repeat;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-5">
+                    <!-- Logo -->
+                    <div class="logo">
+                        <h1>
+                            <a href="index.html">Customer</a></h1>
+                    </div>
+                </div>
+                <div class="col-md-5">
+                    <div class="navbar navbar-inverse" role="banner">
+                        <nav class="collapse navbar-collapse bs-navbar-collapse navbar-right" role="navigation">
+                            <ul class="nav navbar-nav">
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">My Account <b class="caret"></b></a>
+                                    <ul class="dropdown-menu animated fadeInUp">
+                                        <li><a href="profile.html">Profile</a></li>
+                                        <li><a href="login.html">Logout</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="javascript:void(0)">Data Table<b class="caret"></b></a></li>
+                                <li>test</li>
+
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="page-content">
+        <div class="row">
+            @Html.Partial("~/Views/Home/_LeftPageMenu.cshtml")
+            <div class="col-md-10">
+                <div class="content-box-large" style="height: 353px;">
+                    <h2>Auto complete :  </h2>
+                    <div>
+                        <input type="text" id="autoCompleteTextBox" class="ui-autocomplete-loading" placeholder="type a country name" style="width: 500px; height: 30px;" />
+                    </div>
+
+
+
+                </div>
+                <div id="lblmessage"></div>
+            </div>
+        </div>
+    </div>
+    <!-- /.modal -->
+    <footer>
+        <div class="container">
+
+            <div class="copy text-center">
+                Copyright 2014 <a href='#'>Website</a>
+            </div>
+
+        </div>
+    </footer>
+
+    <script src="@Url.Content("~/Assests/lib/jquery-1.8.2.min.js")"></script>
+    <script src="@Url.Content("~/Assests/lib/jquery-ui-1.8.24.min.js")"></script>
+    <script src="@Url.Content("~/Assests/lib/jquery.unobtrusive-ajax.min.js")"></script>
+    <script src="@Url.Content("~/Assests/lib/jquery.validate.min.js")"></script>
+    <script src="@Url.Content("~/Assests/lib/jquery.validate.unobtrusive.min.js")"></script>
+    
+    <script type="text/javascript">
+        $(function () {
+            $("#autoCompleteTextBox").autocomplete({
+                source: function (request, response) {
+                    $.get("getCountryName", {
+                        term: request.term
+                    }, function (data) {                       
+                        response($.map(data, function (item) {
+                            return {
+                                label: item.Text,
+                                value: item.Value
+                            }
+                        }))
+                    }, "json");
+                },
+                minLength: 2,
+                select: function (event, ui) {                  
+                    $('#lblmessage').html('<span style="color:red;">You have selected :' + ui.item.value + '</span>');
+                },
+                dataType: "json",
+                cache: false
+            });
+        });
+    </script>
+
+
+</body>
+</html>

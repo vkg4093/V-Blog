@@ -1,0 +1,54 @@
+﻿<div class="row">
+    <div data-ng-include="'partials/leftmenu.htm'">
+    </div>
+    <div class="col-md-7">
+        <div class="content-box-large">
+            <div class="page-header">
+                <h2>
+                    <!-- {{todo.user}}'s -->
+                    To Do List <span class="label label-default" data-ng-class="warningLevel()" data-ng-hide="incompleteCount() == 0">
+                        {{incompleteCount()}} </span>
+                </h2>
+            </div>
+            <div class="panel-body">
+                <div class="input-group">
+                    <input id="txtTodo" class="form-control" data-ng-model="todotext" /><a id="triggered-cta-box-close"
+                        href="javascript:void(0)" data-ng-click="resetInput();">x</a> <span class="input-group-btn">
+                            <button class="btn btn-default" data-ng-click="addTodo(todotext)">
+                                Add</button>
+                        </span>
+                </div>
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>
+                                Description
+                            </th>
+                            <th>
+                                Done
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr data-ng-repeat="item in todo.items|orderBy:'action'">
+                            <td>
+                                {{item.action}}
+                            </td>
+                            <td>
+                                <input type="checkbox" data-ng-model="item.done">
+                            </td>
+                            <td>
+                                {{item.done}}
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <div class="checkbox-inline">
+                    <label>
+                        <input type="checkbox" data-ng_model="showComplete" />
+                        Show Complete</label>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,169 @@
+﻿@model V.Blog.Service.ViewModels.UserAccount
+@{
+    Layout = null;
+    V.Blog.Test.Helpers.DropDownHelpers _dHelper = new V.Blog.Test.Helpers.DropDownHelpers();
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Home</title>
+    <link href="~/Assests/css/style.css" rel="stylesheet" />
+    <link href="~/Content/themes/base/all.css" rel="stylesheet" />
+    <link href="~/Assests/css/selectric.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <div id="header">
+
+        </div>
+        <div class="main-menu clearfix">
+        </div>
+        <div class="page-title clearfix">
+            <h1>User Registration</h1>
+        </div>
+        <div id="bodycntr">
+            <div class="adminWrapper">
+                @using (Ajax.BeginForm("Home", "Home", new AjaxOptions
+                    {
+
+                        HttpMethod = "Post",
+                        OnBegin = "BeforestartLoading",
+                        OnSuccess = "callSuccessFunction",
+                        OnComplete = "",
+                        OnFailure = ""
+
+                    }, new { @class = "form-horizontal" }))
+                {
+                    <div id="dvvalidationsummary" class="error-box margin-btm30">
+                        @Html.ValidationSummary()
+                    </div>
+                    <div class="row padding-btm20 clearfix">
+                        <div class="col5 padding-right15 fLeft">
+                            @Html.Label("First Name", new { @class = "col-sm-2 control-label" })
+
+                            @Html.TextBoxFor(m => m.FirstName, new { @class = "AlphabeticOnly " })
+
+                            <div class="loginError clearfix col10">
+                                @Html.ValidationMessageFor(m => m.FirstName)
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row padding-btm20 clearfix">
+                        <div class="col5 padding-right15 fLeft">
+                            @Html.Label("Last Name", new { @class = "col-sm-2 control-label " })
+
+                            @Html.TextBoxFor(m => m.LastName, new { @class = "", @keyup = "checkValid();" })
+
+                            <div class="loginError clearfix col10">
+                                @Html.ValidationMessageFor(m => m.LastName)
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row padding-btm20 clearfix">
+                        <div class="col5 padding-right15 fLeft">
+                            @Html.Label("Email", new { @class = "col-sm-2 control-label" })
+
+                            @Html.TextBoxFor(m => m.Email, new { @class = "" })
+
+                            <div class="loginError clearfix col10">
+                                @Html.ValidationMessageFor(m => m.Email)
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row padding-btm20 clearfix">
+                        <div class="col5 padding-right15 fLeft">
+                            <label>Date of Birth</label>
+                            <div class="calender">
+                                @Html.TextBoxFor(m => m.DateOfBirth, new { @class = "datepicker" })
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row padding-btm20 clearfix">
+                        <div class="col5 padding-right15 fLeft">
+                            <label>Phone</label>
+                            @Html.TextBoxFor(m => m.Phone, new { @class = "NumericOnly" })
+                        </div>
+                    </div>
+                    <div class="row padding-btm20 clearfix">
+                        <div class="col5 padding-right15 fLeft">
+                            @Html.Label("State", new { @class = "col-sm-2 control-label" })
+                            @Html.DropDownListFor(m => m.State, _dHelper.GetStates(), "PLEASE SELECT", new { @class = "custom-select" })
+
+                            <div class="loginError clearfix col10">
+                                @Html.ValidationMessageFor(m => m.State)
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row padding-btm20 clearfix">
+                        <a class="normal-btn" id="btnCancel">Cancel</a>
+                        <input type="submit" value="Save" class="normal-btn" id="btnSave" />
+                    </div>
+
+                }
+            </div>
+        </div>
+    </div>
+
+    <script src="~/Scripts/jquery-2.1.4.min.js"></script>
+    <script src="~/Scripts/jquery-ui-1.11.4.min.js"></script>
+    <script src="~/Assests/lib/jquery.validate.min.js"></script>
+    <script src="~/Assests/lib/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/Assests/CustomScript/common.js"></script>
+    <script src="~/Assests/lib/jquery.selectric.js"></script>
+
+    <script type="text/javascript">
+        $(function () {
+
+            $(".datepicker").datepicker({
+                dateFormat: 'dd-mm-yy',
+                changeMonth: true,
+                changeYear: true
+                //showOn: "button",
+                //buttonImage: "../../Assests/images/cal-icon.jpg",
+                //buttonImageOnly: true,
+                //buttonText: "Select date"
+                //, minDate: 0, maxDate: "+0M +5D"
+            });
+        });
+        $(document).ready(function () {
+            $('select').selectric({
+                // selectric inherits the validate[required] class from the original select menu, breaking validation
+                onOpen: function () { $('div .selectricWrapper').removeClass('validate[required]'); }
+
+                //,onChange: function() {$('form').valid();},
+            }).on('change', function () {
+                $('form').valid();
+            });
+        });
+        $(function () {
+
+            $('input').each(function () {
+                //debugger;
+                var att = $(this).hasClass('input-validation-error');
+                if (att) {
+                    $(this).on('change', function () { $('form').valid(); });
+                }
+               
+            });
+        });
+
+        //$(function () {
+        //    if ($('.validation-summary-errors').length > 0) {
+        //        $(':input').on("change", function () {
+        //            $('form').valid();
+        //        });
+        //    }
+        //});
+        //$(function () {
+        //    $('#State').on('change', function () {
+        //        $('form').valid();
+        //        var val = ($(this).val());
+        //    });
+        //});
+    </script>
+
+</body>
+</html>
